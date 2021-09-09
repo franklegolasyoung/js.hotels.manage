@@ -1,1 +1,1 @@
-# java.hotels.manage
+# js.hotels.manage
